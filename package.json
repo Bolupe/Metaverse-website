@@ -10,7 +10,6 @@
     "export": "npm run build && next export -o _static"
   },
   "dependencies": {
-    "caniuse-lite": "^1.0.30001522",
     "eslint-config-next": "13.0.3",
     "framer-motion": "^7.6.7",
     "next": "13.0.3",
